@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-qn5a68.yoursingles.online/sitemap.xml
